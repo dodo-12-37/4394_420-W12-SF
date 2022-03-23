@@ -23,7 +23,7 @@ $nano espace.sh
     à la première ligne du script, n'oubliez pas de préciser le shebang: 
 
 ```bas
-#!/bin/bas
+#!/bin/bash
 Fichier="espaceDisque.txt"
 
 date >> $Fichier
